@@ -1,4 +1,26 @@
 {
  "schema_version": 1,
- "editions": []
+ "editions": [
+  {
+   "date": "2026-10-13",
+   "title": "The SRA asks what AI means for solicitor competence",
+   "standfirst": "The SRA has opened an eight week consultation on how technology and AI should shape solicitors' learning and development, with the Statement of Solicitor Competence in scope.",
+   "stories": [
+    "LN-20261013-269",
+    "LN-20261013-276",
+    "LN-20261013-159",
+    "LN-20261013-003",
+    "LN-20261013-084",
+    "LN-20261013-282",
+    "LN-20261013-073",
+    "LN-20261013-160",
+    "LN-20261013-278",
+    "LN-20261013-015",
+    "LN-20261013-021",
+    "LN-20261013-090",
+    "LN-20261013-005"
+   ],
+   "path": "editions/daily/2026-10-13.md"
+  }
+ ]
 }
