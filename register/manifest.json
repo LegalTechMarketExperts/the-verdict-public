@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated": "2026-10-13T17:12:30+00:00",
+  "generated": "2026-10-13T18:08:19+00:00",
   "product": "The Verdict by The LegalTech Market Experts",
   "window_days": 90,
   "days": [
@@ -10,7 +10,7 @@
   "months": [
     "2026-10"
   ],
-  "count": 447,
-  "total": 447,
+  "count": 450,
+  "total": 450,
   "corrections": "jeremy.hill@ltme.news"
 }
