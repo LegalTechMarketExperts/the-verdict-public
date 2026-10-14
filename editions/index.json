@@ -2,6 +2,30 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-14",
+   "title": "Two legal AI rivals launch Intake; the name is the lesser point",
+   "standfirst": "Harvey and Legora each unveiled a product called Intake within hours of one another, and the buyer's question is what each does with the work it routes.",
+   "stories": [
+    "LN-20261014-230",
+    "LN-20261014-181",
+    "LN-20261014-062",
+    "LN-20261014-066",
+    "LN-20261014-064",
+    "LN-20261014-232",
+    "LN-20261014-166",
+    "LN-20261014-167",
+    "LN-20261014-094",
+    "LN-20261014-092",
+    "LN-20261014-045",
+    "LN-20261013-132",
+    "LN-20261014-074",
+    "LN-20261014-189",
+    "LN-20261014-078",
+    "LN-20261013-231"
+   ],
+   "path": "editions/daily/2026-10-14.md"
+  },
+  {
    "date": "2026-10-13",
    "title": "The SRA asks what AI means for solicitor competence",
    "standfirst": "The SRA has opened an eight week consultation on how technology and AI should shape solicitors' learning and development, with the Statement of Solicitor Competence in scope.",
