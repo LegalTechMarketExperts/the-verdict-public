@@ -2,6 +2,28 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-15",
+   "title": "Freshfields reportedly eyes outside capital for its AI unit",
+   "standfirst": "Legal Business, citing the Financial Times, reports that Freshfields is weighing external investment in its AI unit, and the stake is who ends up owning the tools a firm's lawyers rely on.",
+   "stories": [
+    "LN-20261015-011",
+    "LN-20261015-147",
+    "LN-20261015-066",
+    "LN-20261015-144",
+    "LN-20261015-103",
+    "LN-20261015-163",
+    "LN-20261015-175",
+    "LN-20261015-013",
+    "LN-20261015-122",
+    "LN-20261015-093",
+    "LN-20261015-110",
+    "LN-20261015-106",
+    "LN-20261015-102",
+    "LN-20261015-018"
+   ],
+   "path": "editions/daily/2026-10-15.md"
+  },
+  {
    "date": "2026-10-14",
    "title": "Two legal AI rivals launch Intake; the name is the lesser point",
    "standfirst": "Harvey and Legora each unveiled a product called Intake within hours of one another, and the buyer's question is what each does with the work it routes.",
