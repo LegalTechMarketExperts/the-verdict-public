@@ -2,6 +2,25 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-17",
+   "title": "Paying law firms for their emails puts privilege on the table",
+   "standfirst": "Above the Law reports that an unnamed technology company is paying law firms for access to their emails, and client privilege is the stake.",
+   "stories": [
+    "LN-20261017-039",
+    "LN-20261017-011",
+    "LN-20261017-088",
+    "LN-20261017-057",
+    "LN-20261017-083",
+    "LN-20261017-101",
+    "LN-20261017-049",
+    "LN-20261017-113",
+    "LN-20261017-055",
+    "LN-20261017-109",
+    "LN-20261017-081"
+   ],
+   "path": "editions/daily/2026-10-17.md"
+  },
+  {
    "date": "2026-10-16",
    "title": "Microsoft arrives in legal through the door lawyers already use",
    "standfirst": "Microsoft has launched Copilot for Legal, according to Artificial Lawyer, and the stake is who owns the lawyer's desktop.",
