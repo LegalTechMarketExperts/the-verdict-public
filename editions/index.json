@@ -2,6 +2,30 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-16",
+   "title": "Microsoft arrives in legal through the door lawyers already use",
+   "standfirst": "Microsoft has launched Copilot for Legal, according to Artificial Lawyer, and the stake is who owns the lawyer's desktop.",
+   "stories": [
+    "LN-20261016-038",
+    "LN-20261016-159",
+    "LN-20261016-005",
+    "LN-20261016-039",
+    "LN-20261016-104",
+    "LN-20261016-099",
+    "LN-20261016-191",
+    "LN-20261016-180",
+    "LN-20261016-151",
+    "LN-20261016-096",
+    "LN-20261016-107",
+    "LN-20261016-145",
+    "LN-20261016-147",
+    "LN-20261016-142",
+    "LN-20261016-109",
+    "LN-20261016-120"
+   ],
+   "path": "editions/daily/2026-10-16.md"
+  },
+  {
    "date": "2026-10-15",
    "title": "Freshfields reportedly eyes outside capital for its AI unit",
    "standfirst": "Legal Business, citing the Financial Times, reports that Freshfields is weighing external investment in its AI unit, and the stake is who ends up owning the tools a firm's lawyers rely on.",
