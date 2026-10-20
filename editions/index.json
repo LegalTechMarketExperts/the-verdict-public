@@ -2,6 +2,27 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-19",
+   "title": "The gap at the top of UK law is widening",
+   "standfirst": "PwC's annual law firm survey, reported by Legal Futures, finds the top 100 firms still growing while the gap between the top 10 and the rest widens.",
+   "stories": [
+    "LN-20261019-056",
+    "LN-20261019-073",
+    "LN-20261019-081",
+    "LN-20261019-076",
+    "LN-20261019-023",
+    "LN-20261019-055",
+    "LN-20261019-041",
+    "LN-20261019-060",
+    "LN-20261019-042",
+    "LN-20261019-065",
+    "LN-20261019-070",
+    "LN-20261019-044",
+    "LN-20261019-028"
+   ],
+   "path": "editions/daily/2026-10-19.md"
+  },
+  {
    "date": "2026-10-17",
    "title": "Paying law firms for their emails puts privilege on the table",
    "standfirst": "Above the Law reports that an unnamed technology company is paying law firms for access to their emails, and client privilege is the stake.",
