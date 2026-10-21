@@ -2,6 +2,30 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-20",
+   "title": "Research content is moving into the AI platforms, with claims attached",
+   "standfirst": "Midpage says its research costs a tenth of Westlaw and Lexis and now feeds Harvey; the price claim is its own and the terms are not stated.",
+   "stories": [
+    "LN-20261020-017",
+    "LN-20261020-109",
+    "LN-20261020-107",
+    "LN-20261020-023",
+    "LN-20261020-138",
+    "LN-20261020-053",
+    "LN-20261020-054",
+    "LN-20261020-055",
+    "LN-20261020-056",
+    "LN-20261020-043",
+    "LN-20261020-012",
+    "LN-20261020-022",
+    "LN-20261020-111",
+    "LN-20261020-114",
+    "LN-20261020-176",
+    "LN-20261020-130"
+   ],
+   "path": "editions/daily/2026-10-20.md"
+  },
+  {
    "date": "2026-10-19",
    "title": "The gap at the top of UK law is widening",
    "standfirst": "PwC's annual law firm survey, reported by Legal Futures, finds the top 100 firms still growing while the gap between the top 10 and the rest widens.",
