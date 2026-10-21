@@ -2,6 +2,26 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-21",
+   "title": "AI is not a legal entity, so the solicitor stays accountable",
+   "standfirst": "The Law Society of England and Wales has reminded solicitors that AI is not a legal entity, which leaves responsibility for its output where it already sat.",
+   "stories": [
+    "LN-20261021-144",
+    "LN-20261021-193",
+    "LN-20261021-207",
+    "LN-20261021-033",
+    "LN-20261021-054",
+    "LN-20261021-142",
+    "LN-20261021-169",
+    "LN-20261021-139",
+    "LN-20261021-145",
+    "LN-20261021-120",
+    "LN-20261021-175",
+    "LN-20261021-059"
+   ],
+   "path": "editions/daily/2026-10-21.md"
+  },
+  {
    "date": "2026-10-20",
    "title": "Research content is moving into the AI platforms, with claims attached",
    "standfirst": "Midpage says its research costs a tenth of Westlaw and Lexis and now feeds Harvey; the price claim is its own and the terms are not stated.",
