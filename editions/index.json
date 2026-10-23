@@ -2,6 +2,29 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-22",
+   "title": "Legora's $8.8bn price tag is a bet, not a result",
+   "standfirst": "Legora's $550m raise at an $8.8bn valuation raises the stakes for legal AI platforms, though the outlets differ on who led the round.",
+   "stories": [
+    "LN-20261022-016",
+    "LN-20261022-039",
+    "LN-20261022-116",
+    "LN-20261022-133",
+    "LN-20261022-030",
+    "LN-20261022-038",
+    "LN-20261022-082",
+    "LN-20261022-093",
+    "LN-20261022-146",
+    "LN-20261022-124",
+    "LN-20261022-118",
+    "LN-20261022-121",
+    "LN-20261022-011",
+    "LN-20261022-017",
+    "LN-20261022-123"
+   ],
+   "path": "editions/daily/2026-10-22.md"
+  },
+  {
    "date": "2026-10-21",
    "title": "AI is not a legal entity, so the solicitor stays accountable",
    "standfirst": "The Law Society of England and Wales has reminded solicitors that AI is not a legal entity, which leaves responsibility for its output where it already sat.",
