@@ -2,6 +2,27 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-23",
+   "title": "A federal judge loses a case over AI errors",
+   "standfirst": "The Fifth Circuit has removed a judge from a case over AI-linked errors in his orders, according to Law360 Pulse, but the public detail is thin.",
+   "stories": [
+    "LN-20261023-138",
+    "LN-20261023-017",
+    "LN-20261023-026",
+    "LN-20261023-059",
+    "LN-20261023-006",
+    "LN-20261023-025",
+    "LN-20261023-005",
+    "LN-20261023-165",
+    "LN-20261023-144",
+    "LN-20261023-156",
+    "LN-20261023-136",
+    "LN-20261023-126",
+    "LN-20261023-150"
+   ],
+   "path": "editions/daily/2026-10-23.md"
+  },
+  {
    "date": "2026-10-22",
    "title": "Legora's $8.8bn price tag is a bet, not a result",
    "standfirst": "Legora's $550m raise at an $8.8bn valuation raises the stakes for legal AI platforms, though the outlets differ on who led the round.",
