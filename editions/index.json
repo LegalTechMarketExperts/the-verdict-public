@@ -2,6 +2,20 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-25",
+   "title": "Today's AI claims outrun the evidence behind them",
+   "standfirst": "LawFuel reports that Mary Technology has put fact-investigation tools inside Harvey, but nothing yet says what they do, what they cost or who gets them.",
+   "stories": [
+    "LN-20261025-013",
+    "LN-20261025-011",
+    "LN-20261025-003",
+    "LN-20261025-012",
+    "LN-20261025-008",
+    "LN-20261025-006"
+   ],
+   "path": "editions/daily/2026-10-25.md"
+  },
+  {
    "date": "2026-10-24",
    "title": "Courts set the AI timetable; vendors supply the numbers",
    "standfirst": "A near five-hour hearing in Concord Music v. Anthropic leaves more to come on 30 October, while Everlaw and 8am offer figures that have yet to meet a second source.",
