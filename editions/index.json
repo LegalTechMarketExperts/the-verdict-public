@@ -2,6 +2,25 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-24",
+   "title": "Courts set the AI timetable; vendors supply the numbers",
+   "standfirst": "A near five-hour hearing in Concord Music v. Anthropic leaves more to come on 30 October, while Everlaw and 8am offer figures that have yet to meet a second source.",
+   "stories": [
+    "LN-20261024-055",
+    "LN-20261024-133",
+    "LN-20261024-022",
+    "LN-20261024-109",
+    "LN-20261024-051",
+    "LN-20261024-130",
+    "LN-20261024-104",
+    "LN-20261024-116",
+    "LN-20261024-047",
+    "LN-20261024-097",
+    "LN-20261024-089"
+   ],
+   "path": "editions/daily/2026-10-24.md"
+  },
+  {
    "date": "2026-10-23",
    "title": "A federal judge loses a case over AI errors",
    "standfirst": "The Fifth Circuit has removed a judge from a case over AI-linked errors in his orders, according to Law360 Pulse, but the public detail is thin.",
