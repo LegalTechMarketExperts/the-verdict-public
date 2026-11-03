@@ -24,8 +24,8 @@
   },
   {
    "date": "2026-11-02",
-   "title": "Maine's bar changes research supplier, and the terms go unreported",
-   "standfirst": "LawSites and LawNext reports that the Maine bar has moved from Decisis to Clio Library, a small switch that shows how hard research suppliers compete for bar partnerships.",
+   "title": "Maine's bar moves to Clio Library: free for members, terms with Clio undisclosed",
+   "standfirst": "LawSites and LawNext report that the Maine bar switched from Decisis to Clio Library on 1 October, free to members and saving the bar more than $50,000 a year; what Clio gets in return is not disclosed.",
    "stories": [
     "LN-20261102-119",
     "LN-20261102-124",
@@ -47,7 +47,7 @@
   {
    "date": "2026-10-31",
    "title": "Legal AI platforms widen their range faster than the evidence",
-   "standfirst": "Harvey has acquired the sales execution company Aida, Law360 Pulse reports, but the price, terms and date are not stated.",
+   "standfirst": "Harvey has acquired the sales execution company Aida, its fifth purchase of 2026, Harvey announced on 29 October; no price or terms are given.",
    "stories": [
     "LN-20261031-035",
     "LN-20261031-004",
@@ -90,7 +90,7 @@
   {
    "date": "2026-10-29",
    "title": "Weil's troubles are being blamed on AI without evidence",
-   "standfirst": "Weil, Gotshal and Manges is reported to be winding down, and the AI explanations on offer are running ahead of the facts.",
+   "standfirst": "Weil, Gotshal and Manges says its management committee has recommended an orderly wind-down, with a partner vote expected within days, and the AI explanations on offer are running ahead of the facts.",
    "stories": [
     "LN-20261029-118",
     "LN-20261029-122",
@@ -112,7 +112,7 @@
   {
    "date": "2026-10-28",
    "title": "Hidden AI labels on human-written documents deserve a buyer's attention",
-   "standfirst": "Greg Lambert and Marlene Gebauer report that Lexis Protégé tags typed Word files as AI-generated, and say a week passed without a vendor announcement.",
+   "standfirst": "Greg Lambert reports that Lexis Protégé tags typed Word files as AI-generated, and says a week passed without a public vendor statement.",
    "stories": [
     "LN-20261028-103",
     "LN-20261028-157",
@@ -135,7 +135,7 @@
   {
    "date": "2026-10-27",
    "title": "Clio widens its platform; firms may have to prove AI control",
-   "standfirst": "Clio's purchase of a regulatory monitoring company, reported by more than one outlet, extends a practice management platform into compliance territory, with price and terms unstated.",
+   "standfirst": "Clio's purchase of a regulatory monitoring company, announced by Clio itself, extends a practice management platform into compliance territory, with price and terms unstated.",
    "stories": [
     "LN-20261027-110",
     "LN-20261027-048",
@@ -157,7 +157,7 @@
   {
    "date": "2026-10-26",
    "title": "AML compliance improves, on the regulator's own evidence",
-   "standfirst": "The Solicitors Regulation Authority says fewer firms are failing anti-money laundering rules, but the reporting does not say what \"partially compliant\" covers.",
+   "standfirst": "The Solicitors Regulation Authority says fewer firms are failing anti-money laundering rules, but \"partially compliant\" carries most of the good news and its definition is loose.",
    "stories": [
     "LN-20261026-143",
     "LN-20261026-135",
@@ -175,8 +175,8 @@
   },
   {
    "date": "2026-10-25",
-   "title": "Today's AI claims outrun the evidence behind them",
-   "standfirst": "LawFuel reports that Mary Technology has put fact-investigation tools inside Harvey, but nothing yet says what they do, what they cost or who gets them.",
+   "title": "Mary Technology's fact tools arrive in Harvey by connector, with the price still unstated",
+   "standfirst": "Mary Technology has announced a connector that brings its fact-investigation tools into Harvey; the release says what they do but not what they cost or which firms get them.",
    "stories": [
     "LN-20261025-013",
     "LN-20261025-011",
@@ -209,7 +209,7 @@
   {
    "date": "2026-10-23",
    "title": "A federal judge loses a case over AI errors",
-   "standfirst": "The Fifth Circuit has removed a judge from a case over AI-linked errors in his orders, according to Law360 Pulse, but the public detail is thin.",
+   "standfirst": "The Fifth Circuit has taken a judge off a case over AI-linked errors in his orders, and the opinion is now public.",
    "stories": [
     "LN-20261023-138",
     "LN-20261023-017",
@@ -230,7 +230,7 @@
   {
    "date": "2026-10-22",
    "title": "Legora's $8.8bn price tag is a bet, not a result",
-   "standfirst": "Legora's $550m raise at an $8.8bn valuation raises the stakes for legal AI platforms, though the outlets differ on who led the round.",
+   "standfirst": "Legora's $550m raise at an $8.8bn valuation raises the stakes for legal AI platforms, and the company says Atreides led.",
    "stories": [
     "LN-20261022-016",
     "LN-20261022-039",
@@ -273,7 +273,7 @@
   {
    "date": "2026-10-20",
    "title": "Research content is moving into the AI platforms, with claims attached",
-   "standfirst": "Midpage says its research costs a tenth of Westlaw and Lexis and now feeds Harvey; the price claim is its own and the terms are not stated.",
+   "standfirst": "Midpage says its research costs a tenth of Westlaw and Lexis and now feeds Harvey; the price claim is a spokesperson's and no pricing is given.",
    "stories": [
     "LN-20261020-017",
     "LN-20261020-109",
@@ -318,7 +318,7 @@
   {
    "date": "2026-10-17",
    "title": "Paying law firms for their emails puts privilege on the table",
-   "standfirst": "Above the Law reports that an unnamed technology company is paying law firms for access to their emails, and client privilege is the stake.",
+   "standfirst": "Above the Law reports that a technology company is paying law firms for access to their emails, and client privilege is the stake.",
    "stories": [
     "LN-20261017-039",
     "LN-20261017-011",
@@ -383,7 +383,7 @@
   {
    "date": "2026-10-14",
    "title": "Two legal AI rivals launch Intake; the name is the lesser point",
-   "standfirst": "Harvey and Legora each unveiled a product called Intake within hours of one another, and the buyer's question is what each does with the work it routes.",
+   "standfirst": "Legora and Harvey each unveiled a product called Intake within a day of one another, and the buyer's question is what each does with the work it routes.",
    "stories": [
     "LN-20261014-230",
     "LN-20261014-181",
