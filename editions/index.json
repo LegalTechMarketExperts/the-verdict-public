@@ -2,6 +2,27 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-03",
+   "title": "The NCSC's AI warning is really about cheap technology",
+   "standfirst": "The National Cyber Security Centre says UK critical infrastructure faces AI-enabled attacks within two years, and puts the blame on 'tech on the cheap'.",
+   "stories": [
+    "LN-20261103-092",
+    "LN-20261103-109",
+    "LN-20261103-144",
+    "LN-20261103-022",
+    "LN-20261103-110",
+    "LN-20261103-143",
+    "LN-20261103-007",
+    "LN-20261103-107",
+    "LN-20261103-123",
+    "LN-20261103-025",
+    "LN-20261103-155",
+    "LN-20261103-154",
+    "LN-20261103-108"
+   ],
+   "path": "editions/daily/2026-11-03.md"
+  },
+  {
    "date": "2026-11-02",
    "title": "Maine's bar changes research supplier, and the terms go unreported",
    "standfirst": "LawSites and LawNext reports that the Maine bar has moved from Decisis to Clio Library, a small switch that shows how hard research suppliers compete for bar partnerships.",
