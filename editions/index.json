@@ -24,6 +24,28 @@
    "path": "editions/daily/2026-11-02.md"
   },
   {
+   "date": "2026-10-29",
+   "title": "Weil's troubles are being blamed on AI without evidence",
+   "standfirst": "Weil, Gotshal and Manges is reported to be winding down, and the AI explanations on offer are running ahead of the facts.",
+   "stories": [
+    "LN-20261029-118",
+    "LN-20261029-122",
+    "LN-20261029-137",
+    "LN-20261029-008",
+    "LN-20261029-138",
+    "LN-20261029-013",
+    "LN-20261029-126",
+    "LN-20261029-167",
+    "LN-20261029-160",
+    "LN-20261029-032",
+    "LN-20261029-094",
+    "LN-20261029-178",
+    "LN-20261029-027",
+    "LN-20261029-176"
+   ],
+   "path": "editions/daily/2026-10-29.md"
+  },
+  {
    "date": "2026-10-28",
    "title": "Hidden AI labels on human-written documents deserve a buyer's attention",
    "standfirst": "Greg Lambert and Marlene Gebauer report that Lexis Protégé tags typed Word files as AI-generated, and say a week passed without a vendor announcement.",
