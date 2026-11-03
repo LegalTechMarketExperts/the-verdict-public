@@ -2,6 +2,25 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-26",
+   "title": "AML compliance improves, on the regulator's own evidence",
+   "standfirst": "The Solicitors Regulation Authority says fewer firms are failing anti-money laundering rules, but the reporting does not say what \"partially compliant\" covers.",
+   "stories": [
+    "LN-20261026-143",
+    "LN-20261026-135",
+    "LN-20261026-090",
+    "LN-20261026-117",
+    "LN-20261026-147",
+    "LN-20261026-113",
+    "LN-20261026-102",
+    "LN-20261026-146",
+    "LN-20261026-134",
+    "LN-20261026-133",
+    "LN-20261026-091"
+   ],
+   "path": "editions/daily/2026-10-26.md"
+  },
+  {
    "date": "2026-10-25",
    "title": "Today's AI claims outrun the evidence behind them",
    "standfirst": "LawFuel reports that Mary Technology has put fact-investigation tools inside Harvey, but nothing yet says what they do, what they cost or who gets them.",
