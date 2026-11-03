@@ -2,6 +2,28 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-10-27",
+   "title": "Clio widens its platform; firms may have to prove AI control",
+   "standfirst": "Clio's purchase of a regulatory monitoring company, reported by more than one outlet, extends a practice management platform into compliance territory, with price and terms unstated.",
+   "stories": [
+    "LN-20261027-110",
+    "LN-20261027-048",
+    "LN-20261027-107",
+    "LN-20261027-148",
+    "LN-20261027-165",
+    "LN-20261027-135",
+    "LN-20261027-181",
+    "LN-20261027-046",
+    "LN-20261027-049",
+    "LN-20261027-008",
+    "LN-20261027-032",
+    "LN-20261027-096",
+    "LN-20261027-114",
+    "LN-20261027-171"
+   ],
+   "path": "editions/daily/2026-10-27.md"
+  },
+  {
    "date": "2026-10-26",
    "title": "AML compliance improves, on the regulator's own evidence",
    "standfirst": "The Solicitors Regulation Authority says fewer firms are failing anti-money laundering rules, but the reporting does not say what \"partially compliant\" covers.",
