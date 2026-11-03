@@ -2,6 +2,28 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-02",
+   "title": "Maine's bar changes research supplier, and the terms go unreported",
+   "standfirst": "LawSites and LawNext reports that the Maine bar has moved from Decisis to Clio Library, a small switch that shows how hard research suppliers compete for bar partnerships.",
+   "stories": [
+    "LN-20261102-119",
+    "LN-20261102-124",
+    "LN-20261102-136",
+    "LN-20261102-057",
+    "LN-20261102-133",
+    "LN-20261102-091",
+    "LN-20261102-172",
+    "LN-20261102-046",
+    "LN-20261102-111",
+    "LN-20261102-125",
+    "LN-20261102-139",
+    "LN-20261102-083",
+    "LN-20261102-082",
+    "LN-20261102-006"
+   ],
+   "path": "editions/daily/2026-11-02.md"
+  },
+  {
    "date": "2026-10-27",
    "title": "Clio widens its platform; firms may have to prove AI control",
    "standfirst": "Clio's purchase of a regulatory monitoring company, reported by more than one outlet, extends a practice management platform into compliance territory, with price and terms unstated.",
