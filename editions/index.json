@@ -2,6 +2,27 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-04",
+   "title": "Weil's data has bidders, but no buyer yet",
+   "standfirst": "Scissero, Crosby and Vetta want pieces of Weil, Gotshal & Manges, and who may sell a collapsing firm's client data is now a live question.",
+   "stories": [
+    "LN-20261104-119",
+    "LN-20261104-099",
+    "LN-20261104-037",
+    "LN-20261104-049",
+    "LN-20261104-094",
+    "LN-20261104-034",
+    "LN-20261104-128",
+    "LN-20261104-136",
+    "LN-20261104-131",
+    "LN-20261104-134",
+    "LN-20261104-024",
+    "LN-20261104-059",
+    "LN-20261104-036"
+   ],
+   "path": "editions/daily/2026-11-04.md"
+  },
+  {
    "date": "2026-11-03",
    "title": "The NCSC's AI warning is really about cheap technology",
    "standfirst": "The National Cyber Security Centre says UK critical national infrastructure faces AI-powered attacks within two years, and puts the blame on 'tech on the cheap'.",
