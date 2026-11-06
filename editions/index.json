@@ -2,6 +2,28 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-06",
+   "title": "A&O Shearman's $1.1bn AI plan is mostly lawyers' time",
+   "standfirst": "A&O Shearman puts $1.1bn on a five-year AI strategy, and the firm says most of it is lawyers' time.",
+   "stories": [
+    "LN-20261106-022",
+    "LN-20261106-004",
+    "LN-20261106-093",
+    "LN-20261106-026",
+    "LN-20261106-021",
+    "LN-20261106-114",
+    "LN-20261106-032",
+    "LN-20261106-136",
+    "LN-20261106-134",
+    "LN-20261106-090",
+    "LN-20261106-091",
+    "LN-20261106-092",
+    "LN-20261106-109",
+    "LN-20261106-113"
+   ],
+   "path": "editions/daily/2026-11-06.md"
+  },
+  {
    "date": "2026-11-05",
    "title": "Courts will not cut a bill on AI alone",
    "standfirst": "The US Tenth Circuit upheld a $114,663.11 fee award to Brownstein Hyatt Farber Schreck, so a challenge to a bill on AI grounds needs specific entries behind it.",
