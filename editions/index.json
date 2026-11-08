@@ -2,6 +2,18 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-08",
+   "title": "Simple human error still costs £100,000 in court",
+   "standfirst": "A High Court negligence order against Ratio Law puts £100,000 on one deleted figure, while the week's AI launches still rest on vendors' own word.",
+   "stories": [
+    "LN-20261108-007",
+    "LN-20261108-003",
+    "LN-20261108-006",
+    "LN-20261107-099"
+   ],
+   "path": "editions/daily/2026-11-08.md"
+  },
+  {
    "date": "2026-11-07",
    "title": "Legal AI's first listing talk is a contract question for buyers",
    "standfirst": "Harvey has sounded out its regular law firm advisers on a listing, and buyers of legal AI now have a supplier-stability question to put in writing.",
