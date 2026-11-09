@@ -2,6 +2,22 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-09",
+   "title": "LLP tax scrutiny may reach law firm budgets before AI does",
+   "standfirst": "HMRC is reported to be testing LLP members' self-employment status after the Supreme Court's BlueCrest ruling, and PKF Francis Clark warns the tax at stake could be material for law firms.",
+   "stories": [
+    "LN-20261109-004",
+    "LN-20261109-093",
+    "LN-20261109-005",
+    "LN-20261109-078",
+    "LN-20261109-105",
+    "LN-20261109-043",
+    "LN-20261109-041",
+    "LN-20261109-094"
+   ],
+   "path": "editions/daily/2026-11-09.md"
+  },
+  {
    "date": "2026-11-08",
    "title": "Simple human error still costs £100,000 in court",
    "standfirst": "A High Court negligence order against Ratio Law puts £100,000 on one deleted figure, while the week's AI launches still rest on vendors' own word.",
