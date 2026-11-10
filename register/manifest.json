@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated": "2026-11-09T08:14:03+00:00",
+  "generated": "2026-11-10T06:37:08+00:00",
   "product": "The Verdict by The LegalTech Market Experts",
   "window_days": 90,
   "days": [
@@ -120,7 +120,8 @@
     "2026-11-06",
     "2026-11-07",
     "2026-11-08",
-    "2026-11-09"
+    "2026-11-09",
+    "2026-11-10"
   ],
   "months": [
     "2026-07",
@@ -129,7 +130,7 @@
     "2026-10",
     "2026-11"
   ],
-  "count": 3236,
-  "total": 3527,
+  "count": 3305,
+  "total": 3609,
   "corrections": "jeremy.hill@theverdict.news"
 }
