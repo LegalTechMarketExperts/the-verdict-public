@@ -2,6 +2,25 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-11",
+   "title": "UK firms choose rival legal AI vendors as risk gets priced",
+   "standfirst": "Addleshaw Goddard has chosen Harvey and Fieldfisher has chosen Legora, while Crosby says its AI paralegals now carry $5m of insurance.",
+   "stories": [
+    "LN-20261111-032",
+    "LN-20261111-091",
+    "LN-20261111-012",
+    "LN-20261111-029",
+    "LN-20261111-070",
+    "LN-20261111-069",
+    "LN-20261111-087",
+    "LN-20261111-041",
+    "LN-20261111-133",
+    "LN-20261111-137",
+    "LN-20261111-089"
+   ],
+   "path": "editions/daily/2026-11-11.md"
+  },
+  {
    "date": "2026-11-09",
    "title": "LLP tax scrutiny may reach law firm budgets before AI does",
    "standfirst": "HMRC is reported to be testing LLP members' self-employment status after the Supreme Court's BlueCrest ruling, and PKF Francis Clark warns the tax at stake could be material for law firms.",
