@@ -2,6 +2,27 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-12",
+   "title": "Weil's vote ends the question; the claims begin",
+   "standfirst": "Weil, Gotshal & Manges partners have voted 97 per cent to dissolve the firm, leaving creditors, claims and about 1,200 lawyers' next moves to settle.",
+   "stories": [
+    "LN-20261112-040",
+    "LN-20261112-024",
+    "LN-20261112-053",
+    "LN-20261112-141",
+    "LN-20261112-055",
+    "LN-20261112-143",
+    "LN-20261112-025",
+    "LN-20261112-096",
+    "LN-20261112-063",
+    "LN-20261112-080",
+    "LN-20261112-057",
+    "LN-20261112-005",
+    "LN-20261112-142"
+   ],
+   "path": "editions/daily/2026-11-12.md"
+  },
+  {
    "date": "2026-11-11",
    "title": "UK firms choose rival legal AI vendors as risk gets priced",
    "standfirst": "Addleshaw Goddard has chosen Harvey and Fieldfisher has chosen Legora, while Crosby says its AI paralegals now carry $5m of insurance.",
