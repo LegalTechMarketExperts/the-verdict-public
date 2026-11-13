@@ -2,6 +2,25 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-13",
+   "title": "The SRA prefers supervising to investigating, and firms will pay",
+   "standfirst": "The Solicitors Regulation Authority's final business plan lifts the practising certificate fee share to £240 and explores supervision in place of some investigations.",
+   "stories": [
+    "LN-20261113-019",
+    "LN-20261113-022",
+    "LN-20261113-204",
+    "LN-20261113-013",
+    "LN-20261113-105",
+    "LN-20261113-062",
+    "LN-20261113-033",
+    "LN-20261113-209",
+    "LN-20261113-176",
+    "LN-20261113-023",
+    "LN-20261113-112"
+   ],
+   "path": "editions/daily/2026-11-13.md"
+  },
+  {
    "date": "2026-11-12",
    "title": "Weil's vote ends the question; the claims begin",
    "standfirst": "Weil, Gotshal & Manges partners have voted 97 per cent to dissolve the firm, leaving creditors, claims and about 1,200 lawyers' next moves to settle.",
