@@ -2,6 +2,24 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-14",
+   "title": "A cost cut mends Dye & Durham's loss, not its revenue",
+   "standfirst": "Dye & Durham says its net loss narrowed to $11.1m while revenue fell 12.4 per cent: a repair, not yet a recovery.",
+   "stories": [
+    "LN-20261113-164",
+    "LN-20261114-108",
+    "LN-20261113-098",
+    "LN-20261114-121",
+    "LN-20261113-081",
+    "LN-20261113-094",
+    "LN-20261114-053",
+    "LN-20261114-001",
+    "LN-20261114-015",
+    "LN-20261114-110"
+   ],
+   "path": "editions/daily/2026-11-14.md"
+  },
+  {
    "date": "2026-11-13",
    "title": "The SRA prefers supervising to investigating, and firms will pay",
    "standfirst": "The Solicitors Regulation Authority's final business plan lifts the practising certificate fee share to £240 and explores supervision in place of some investigations.",
