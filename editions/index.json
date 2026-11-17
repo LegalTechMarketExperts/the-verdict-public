@@ -20,6 +20,20 @@
    "path": "editions/daily/2026-11-16.md"
   },
   {
+   "date": "2026-11-15",
+   "title": "Pleading AI output infringement turns out to need specifics",
+   "standfirst": "Judge Lee has found Concord Music's complaint against Anthropic lacking in specificity on infringing output from Claude, and has dismissed the claim against Dario Amodei with leave to amend.",
+   "stories": [
+    "LN-20261115-006",
+    "LN-20261115-020",
+    "LN-20261115-010",
+    "LN-20261115-007",
+    "LN-20261115-011",
+    "LN-20261114-122"
+   ],
+   "path": "editions/daily/2026-11-15.md"
+  },
+  {
    "date": "2026-11-14",
    "title": "A cost cut mends Dye & Durham's loss, not its revenue",
    "standfirst": "Dye & Durham says its net loss narrowed to $11.1m while revenue fell 12.4 per cent: a repair, not yet a recovery.",
