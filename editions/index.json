@@ -2,6 +2,28 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-17",
+   "title": "Crosby says lawyers no longer review a fifth of its work",
+   "standfirst": "Crosby, the New York AI law firm, says a $5m Testudo policy covers its AI agents and that it has removed lawyer oversight from tasks making up about 20 per cent of its work.",
+   "stories": [
+    "LN-20261117-037",
+    "LN-20261117-178",
+    "LN-20261117-042",
+    "LN-20261117-084",
+    "LN-20261117-151",
+    "LN-20261117-157",
+    "LN-20261117-193",
+    "LN-20261117-152",
+    "LN-20261117-044",
+    "LN-20261117-002",
+    "LN-20261117-154",
+    "LN-20261117-080",
+    "LN-20261117-068",
+    "LN-20261117-017"
+   ],
+   "path": "editions/daily/2026-11-17.md"
+  },
+  {
    "date": "2026-11-16",
    "title": "Weil's brand has bidders, but its data is the real question",
    "standfirst": "Crosby has bid for the brand, trademark and selected data of Weil, Gotshal & Manges, and privilege may limit what any buyer can take.",
