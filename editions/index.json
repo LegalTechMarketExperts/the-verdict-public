@@ -2,6 +2,24 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-16",
+   "title": "Weil's brand has bidders, but its data is the real question",
+   "standfirst": "Crosby has bid for the brand, trademark and selected data of Weil, Gotshal & Manges, and privilege may limit what any buyer can take.",
+   "stories": [
+    "LN-20261116-070",
+    "LN-20261116-076",
+    "LN-20261116-069",
+    "LN-20261116-075",
+    "LN-20261116-066",
+    "LN-20261116-061",
+    "LN-20261116-025",
+    "LN-20261116-027",
+    "LN-20261116-013",
+    "LN-20261116-093"
+   ],
+   "path": "editions/daily/2026-11-16.md"
+  },
+  {
    "date": "2026-11-14",
    "title": "A cost cut mends Dye & Durham's loss, not its revenue",
    "standfirst": "Dye & Durham says its net loss narrowed to $11.1m while revenue fell 12.4 per cent: a repair, not yet a recovery.",
