@@ -2,6 +2,24 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-18",
+   "title": "A law firm is funding the rival that wants its job",
+   "standfirst": "Alecto, an AI-native conveyancing firm with Mishcon de Reya among its investors, says it reached £6m annualised revenue in eight months, a figure that is the company's own.",
+   "stories": [
+    "LN-20261118-178",
+    "LN-20261118-031",
+    "LN-20261118-088",
+    "LN-20261118-021",
+    "LN-20261118-159",
+    "LN-20261118-177",
+    "LN-20261118-041",
+    "LN-20261118-023",
+    "LN-20261118-092",
+    "LN-20261118-005"
+   ],
+   "path": "editions/daily/2026-11-18.md"
+  },
+  {
    "date": "2026-11-17",
    "title": "Crosby says lawyers no longer review a fifth of its work",
    "standfirst": "Crosby, the New York AI law firm, says a $5m Testudo policy covers its AI agents and that it has removed lawyer oversight from tasks making up about 20 per cent of its work.",
