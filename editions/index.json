@@ -2,6 +2,26 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-19",
+   "title": "MPs want a single regulator; clients want their AI savings",
+   "standfirst": "The Commons justice committee backs a national legal service and a single regulator, while named general counsel tell firms to share AI savings.",
+   "stories": [
+    "LN-20261119-207",
+    "LN-20261119-208",
+    "LN-20261119-062",
+    "LN-20261119-211",
+    "LN-20261119-013",
+    "LN-20261119-032",
+    "LN-20261119-228",
+    "LN-20261119-236",
+    "LN-20261119-039",
+    "LN-20261119-209",
+    "LN-20261119-178",
+    "LN-20261119-036"
+   ],
+   "path": "editions/daily/2026-11-19.md"
+  },
+  {
    "date": "2026-11-18",
    "title": "A law firm is funding the rival that wants its job",
    "standfirst": "Alecto, an AI-native conveyancing firm with Mishcon de Reya among its investors, says it reached £6m annualised revenue in eight months, a figure that is the company's own.",
