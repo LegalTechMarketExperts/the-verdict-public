@@ -2,6 +2,24 @@
  "schema_version": 1,
  "editions": [
   {
+   "date": "2026-11-20",
+   "title": "A cyber fine upheld puts supplier risk on the partners' desks",
+   "standfirst": "The First-tier Tribunal has upheld a £60,000 Information Commissioner's Office fine on DPP Law, and its deterrence reasoning points at firms that rely on external suppliers.",
+   "stories": [
+    "LN-20261120-185",
+    "LN-20261120-082",
+    "LN-20261120-105",
+    "LN-20261120-039",
+    "LN-20261120-059",
+    "LN-20261120-051",
+    "LN-20261120-010",
+    "LN-20261120-080",
+    "LN-20261120-019",
+    "LN-20261120-079"
+   ],
+   "path": "editions/daily/2026-11-20.md"
+  },
+  {
    "date": "2026-11-19",
    "title": "MPs want a single regulator; clients want their AI savings",
    "standfirst": "The Commons justice committee backs a national legal service and a single regulator, while named general counsel tell firms to share AI savings.",
